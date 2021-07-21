@@ -42,7 +42,7 @@ const server = http.createServer((req, res) => {
   //overview page
   if (pathName === "/" || pathName === "/overview") {
     res.writeHead(200, {
-      "Content-Type": "text/html",
+      "Content-Type": "text/html; charset=UTF-8",
     });
 
     const cardsHtml = dataObj
