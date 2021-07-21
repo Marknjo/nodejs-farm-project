@@ -1,4 +1,4 @@
-# :rocket: NodeJs Lab
+# :rocket: NodeJs Lab: Node FARM
 
 ## :balloon: Overview
 
