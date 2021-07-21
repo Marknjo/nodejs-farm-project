@@ -13,5 +13,8 @@
     "CSS"
   ],
   "author": "Mark Njoroge",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "slugify": "^1.6.0"
+  }
 }
