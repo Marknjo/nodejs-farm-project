@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-farm-project",
+  "version": "1.0.0",
+  "description": "A simple Nodejs app built for understanding NodeJs intro concepts ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Mark Njoroge",
+  "license": "MIT"
+}
